@@ -1,0 +1,7 @@
+{
+  "db": "aod_db",
+  "OAuthClientId": "aod_OAuthClientId",
+  "OAuthClientSecret": "aod_OAuthClientSecret",
+  "OAuthRefreshToken": "aod_OAuthRefreshToken",
+  "accessEmail": "aod_accessEmail"
+}
